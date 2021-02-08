@@ -1,0 +1,2 @@
+Creo archivo3 para prueba3
+Otra línea en archivo3.txt
